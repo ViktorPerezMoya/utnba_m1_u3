@@ -1,0 +1,31 @@
+.info{
+	width: 200px;
+	background-color: #CBCBCB;
+	float: left;
+	position: fixed;
+	top: 0;
+	height: 100%;
+	padding-left: 10px;
+}
+#head-cv{
+	text-align: center;
+}
+
+#foto-perfil{
+	border-radius: 50%;
+}
+
+section{
+	padding-left: 50px;
+}
+
+.info-lista{
+	margin-left: 200px;
+	margin-left: 200px;
+	margin-left: 200px;
+	margin-left: 200px;
+}
+
+h2{
+	text-decoration: underline;
+}
