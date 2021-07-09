@@ -1,2 +1,3 @@
 1 - Revisar codigo aplicacion Tareas
 2 - Crear exportacion de datos de base vieja
+3 - Rellenar datos iniciales en base de datos
